@@ -1,7 +1,7 @@
 # Web_scraping_companies_Modern_Slavery
 Scraping over a 1000 company websites
 
-This scraper imports a list with the names of more than 1000 companies. Using Selenium the loop iterate for each one of the imported names, and in  each case, it automates the following tasks: 
+This scraper imports a list with the names of more than 1000 companies. Using Selenium the loop iterates through each one of the company names, and in  each case, it automates the following tasks: 
 
 1- Enter the name of the company on Google.
 
