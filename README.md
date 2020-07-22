@@ -3,7 +3,7 @@ Scraping over a 1000 company websites.
 
 This scraper imports a list with the names of more than 1000 companies. Using Selenium, the loop iterates through each one of the company names, automating the following tasks: 
 
-1- Enter the name of the company on Google.
+1- Type the company's name in the Google search box.
 
 2- Look for the company's website and click on it. 
 
